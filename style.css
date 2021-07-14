@@ -1,0 +1,38 @@
+.heading {
+    margin: 0%;
+    width: 100%;
+    box-shadow: 5px 5px 7px grey;
+    font-size: 25px;
+}
+.heading2 {
+    background-color: lightseagreen;
+    padding: 10px;
+    float: none;
+    box-shadow: 5px 5px 7px grey;
+    border-radius: 15px;
+    margin: 10px;
+}
+.heading3 {
+    padding: 10px;
+    font-size: 15px;
+}
+.results {
+    font-size: 20px;
+    box-shadow: 5px 5px 7px grey;
+    margin-top: 20px;
+}
+#footer {
+    width: 100%;
+    background-color: grey;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    line-height: 2;
+    font-size: 20px;
+}
+canvas {
+    border: 20px groove aqua;
+    margin-top: 100px;
+    box-shadow: 15px 15px 30px grey;
+
+}
